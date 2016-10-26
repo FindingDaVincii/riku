@@ -4,3 +4,13 @@
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
+node_modules/
+bower_components/
+.idea
+system/
+test/
+tests/
+vendor/
+dist/
+temp/
+tmp/

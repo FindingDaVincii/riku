@@ -1,0 +1,24 @@
+{
+  "name": "riku",
+  "version": "0.0.1",
+  "description": "Full Site",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FindingDaVincii/riku.git"
+  },
+  "author": "Jordan Sleeper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FindingDaVincii/riku/issues"
+  },
+  "homepage": "https://github.com/FindingDaVincii/riku#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "mocha": "^3.1.2"
+  }
+}
