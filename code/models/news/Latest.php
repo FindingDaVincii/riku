@@ -26,6 +26,14 @@ class Latest extends CI_Model{
     return $news;
   }
 
+  public function get_exclusives(){
+    $news = [];
+    $statement = "SELECT * FROM news WHERE exclusive='1' ORDER BY post_date DESC LIMIT 10";
+
+
+
+  }
+
 }
 
 
